@@ -1,0 +1,40 @@
+.mainbox{
+  margin-left: 200px;
+   margin-right: 200px;
+}
+.box-one{
+    display: flex;
+}
+
+p{
+    text-align: justify;
+   padding-right: 10px;
+    margin:0;
+    margin-top: 10px;
+}
+h2{
+    margin: 0;
+    margin-top: 10px;
+    color: rgb(210, 42, 30);
+}
+.write{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+span{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    display: block;
+    width: 80px;
+    text-align: center;
+    border-radius: 4px;
+
+}
+.write2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 10px;
+}
